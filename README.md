@@ -1,4 +1,3 @@
-# Setting Theme in React JS
+# Admin Dashboard React JS
 
-This code contains the initial setup for using Theme in React JS.
 
